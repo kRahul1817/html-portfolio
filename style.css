@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* nav {
+} */
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  padding: 5px 5px;
+  margin: 15px 15px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+p {
+  margin: 10px 10px;
+  /* padding: 5px 5px; */
+}
